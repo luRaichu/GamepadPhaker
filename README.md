@@ -3,8 +3,8 @@ Install dependencies if you haven't already
 ```
 pip install -r requirements.txt
 ```
-Then simply do
+Then (for Linux) simply do
 ```
 sudo python main.py
 ```
-This needs to be run as root on Linux, but it should work on Windows as well. Mac is not supported by the `vgamepad` library that we use.
+As you can see his needs to be run as root on Linux, but it should work on Windows as well. Mac is not supported by the `vgamepad` library that we use.
